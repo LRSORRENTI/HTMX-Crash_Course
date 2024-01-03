@@ -2,10 +2,9 @@
   "name": "traversy_htmx",
   "version": "1.0.0",
   "description": "**Learn HTMX",
-  "main": "index.js",
-  "type": "commonjs",
+  "type": "module",
   "scripts": {
-    "dev": "nodemon server.js"
+    "dev": "nodemon server/server.js"
   },
   "keywords": [],
   "author": "",
