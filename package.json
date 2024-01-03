@@ -4,7 +4,7 @@
   "description": "**Learn HTMX",
   "type": "module",
   "scripts": {
-    "dev": "nodemon server/server.js"
+    "dev": "nodemon backend/server/server.js"
   },
   "keywords": [],
   "author": "",
